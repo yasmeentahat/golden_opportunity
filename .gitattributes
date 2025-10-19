@@ -1,0 +1,20 @@
+# ÇÓÊÈÚÇÏ ãáİÇÊ/ãÌáÏÇÊ ÇáãäÕÇÊ ãä ÅÍÕÇÆíÉ ÇááÛÉ
+android/** linguist-vendored
+ios/** linguist-vendored
+macos/** linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
+# (ÇÎÊíÇÑí) áæ ãÇ ÈÏß ÇáæíÈ íÃËÑ
+# web/** linguist-vendored
+
+*.cc    linguist-vendored
+*.cpp   linguist-vendored
+*.h     linguist-vendored
+*.mm    linguist-vendored
+*.m     linguist-vendored
+*.kt    linguist-vendored
+*.kts   linguist-vendored
+*.swift linguist-vendored
+
+# ÊÃßíÏ ÇÍÊÓÇÈ ÇáÏÇÑÊ
+*.dart linguist-detectable=true
